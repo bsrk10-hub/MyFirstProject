@@ -1,1 +1,1 @@
-example2 texg
+example2 copy
